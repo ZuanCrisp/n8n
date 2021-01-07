@@ -1,0 +1,6 @@
+Original tag name: 8n-editor-ui@0.70.0
+Original tag object: 9fbd4c0738aaae893990b342d256843fe139fd5a
+Original target commit: 9fbd4c0738aaae893990b342d256843fe139fd5a
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
