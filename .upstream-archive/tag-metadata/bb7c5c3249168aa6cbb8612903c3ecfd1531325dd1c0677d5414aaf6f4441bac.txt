@@ -1,0 +1,6 @@
+Original tag name: n8n@1.79.3
+Original tag object: 7edc35d4100557d6b36032f5d2c9afb1378a98c7
+Original target commit: 7edc35d4100557d6b36032f5d2c9afb1378a98c7
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
