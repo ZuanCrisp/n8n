@@ -1,0 +1,6 @@
+Original tag name: eval/77329da
+Original tag object: 77329da287bbdc2f4bbd386f46c3d8b837d14525
+Original target commit: 77329da287bbdc2f4bbd386f46c3d8b837d14525
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
