@@ -1,0 +1,6 @@
+Original tag name: beta
+Original tag object: 6825faadda0254336b23b02a091fbf0e9baaddf7
+Original target commit: 6825faadda0254336b23b02a091fbf0e9baaddf7
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
