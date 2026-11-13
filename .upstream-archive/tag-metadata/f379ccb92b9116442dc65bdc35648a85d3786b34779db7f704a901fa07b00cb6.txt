@@ -1,0 +1,6 @@
+Original tag name: stable
+Original tag object: d4dcb1b152a98fc31ea7c4ee6aecdc45c5c88063
+Original target commit: d4dcb1b152a98fc31ea7c4ee6aecdc45c5c88063
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
